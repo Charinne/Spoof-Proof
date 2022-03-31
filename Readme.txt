@@ -1,5 +1,7 @@
 By: Sayyed, Jeremy, Chas
 
+This project was created in a weekend as a submission for the W&M Cypher VII Hackathon
+
 Spoof Proof (Spoof_Proof.py) is a “one-of-a-kind” anti ARP Spoofing tool. It detects any ARP poisoning/spoofing attempts, logs them, maintains a real-time view of whether your computer is being victimized and connections that have been affected by ARP poisoning, and finally logs the MAC address of the hacker machine that can be used for future forensics. 
 
 run code on Windows machines
